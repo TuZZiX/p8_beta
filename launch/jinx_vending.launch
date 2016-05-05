@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <launch>
 	<param name="/UPDATE_RATE" value="50.0"/>
-	<param name="/K_PHI" value="1.0"/>
-	<param name="/K_DISP" value="0.5"/>
-	<param name="/K_TRIP_DIST" value="0.25"/>
-	<param name="/MAX_SPEED" value="0.25"/>
+	<param name="/K_PHI" value="0.8"/>
+	<param name="/K_DISP" value="0.4"/>
+	<param name="/K_TRIP_DIST" value="0.20"/>
+	<param name="/MAX_SPEED" value="0.4"/>
 	<param name="/MAX_OMEGA" value="0.5"/>
 
 	<param name="/K_PSI" value="2.5"/>
